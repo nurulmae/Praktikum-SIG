@@ -1,0 +1,40 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark id="0">
+<ExtendedData>
+  <Data name="nama"><value>surabaya</value></Data></ExtendedData>
+  <Point><coordinates>112.73950646268327,-7.257769137761372</coordinates></Point></Placemark>
+<Placemark id="1">
+<ExtendedData>
+  <Data name="nama"><value>malang</value></Data></ExtendedData>
+  <Point><coordinates>112.62518915415183,-7.958366280509836</coordinates></Point></Placemark>
+<Placemark id="2">
+<ExtendedData>
+  <Data name="nama"><value>kediri</value></Data></ExtendedData>
+  <Point><coordinates>112.01240884613804,-7.804123738795937</coordinates></Point></Placemark>
+<Placemark id="3">
+<ExtendedData>
+  <Data name="nama"><value>madium</value></Data></ExtendedData>
+  <Point><coordinates>111.52138339802889,-7.623316830193787</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData></ExtendedData>
+  <Point><coordinates>91.46962611925574,26.520725111286993</coordinates></Point></Placemark>
+<Placemark id="5">
+<ExtendedData>
+  <Data name="nama"><value>blitar</value></Data></ExtendedData>
+  <Point><coordinates>112.16258895507156,-8.089139765865568</coordinates></Point></Placemark>
+<Placemark id="6">
+<ExtendedData>
+  <Data name="nama"><value>pasuruan</value></Data></ExtendedData>
+  <Point><coordinates>112.90474469033,-7.6333072523060395</coordinates></Point></Placemark>
+<Placemark id="7">
+<ExtendedData>
+  <Data name="nama"><value>probolingo</value></Data></ExtendedData>
+  <Point><coordinates>113.21500873307349,-7.7399694901080665</coordinates></Point></Placemark>
+<Placemark id="8">
+<ExtendedData>
+  <Data name="nama"><value>mojokerto</value></Data></ExtendedData>
+  <Point><coordinates>112.43324084564586,-7.455200991825336</coordinates></Point></Placemark>
+<Placemark id="9">
+<ExtendedData>
+  <Data name="nama"><value>kota batu</value></Data></ExtendedData>
+  <Point><coordinates>112.52966121427869,-7.863584680558958</coordinates></Point></Placemark></Document></kml>

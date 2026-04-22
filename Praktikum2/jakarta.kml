@@ -1,0 +1,25 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark id="0">
+<ExtendedData>
+  <Data name="nama"><value>jakarta barat</value></Data></ExtendedData>
+  <Point><coordinates>106.79724028931781,-6.155090511958562</coordinates></Point></Placemark>
+<Placemark id="1">
+<ExtendedData>
+  <Data name="nama "><value>jakarta selatan</value></Data></ExtendedData>
+  <Point><coordinates>106.82048570423956,-6.235548499729688</coordinates></Point></Placemark>
+<Placemark id="2">
+<ExtendedData>
+  <Data name="nama"><value>jakarta utara</value></Data></ExtendedData>
+  <Point><coordinates>106.89867214202047,-6.117255460718326</coordinates></Point></Placemark>
+<Placemark id="3">
+<ExtendedData>
+  <Data name="nama "><value>jakarta pusat</value></Data></ExtendedData>
+  <Point><coordinates>106.83386545957728,-6.176463422279866</coordinates></Point></Placemark>
+<Placemark id="4">
+<ExtendedData>
+  <Data name="nama"><value>kepulauan seribu</value></Data></ExtendedData>
+  <Point><coordinates>106.50292174231748,-5.774283351638715</coordinates></Point></Placemark>
+<Placemark id="5">
+<ExtendedData>
+  <Data name="nama"><value>jakarta timur</value></Data></ExtendedData>
+  <Point><coordinates>106.87586552265572,-6.220789890365978</coordinates></Point></Placemark></Document></kml>

@@ -1,0 +1,25 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark id="0">
+<ExtendedData>
+  <Data name="nama"><value>kota semarang</value></Data></ExtendedData>
+  <Point><coordinates>110.42040013586245,-6.977345433067029</coordinates></Point></Placemark>
+<Placemark id="1">
+<ExtendedData>
+  <Data name="nama"><value>surakarta</value></Data></ExtendedData>
+  <Point><coordinates>110.82071812338745,-7.56824284272065</coordinates></Point></Placemark>
+<Placemark id="2">
+<ExtendedData>
+  <Data name="nama"><value>tegal</value></Data></ExtendedData>
+  <Point><coordinates>110.8344800235144,-7.559023717350456</coordinates></Point></Placemark>
+<Placemark id="3">
+<ExtendedData>
+  <Data name="nama"><value>magelang</value></Data></ExtendedData>
+  <Point><coordinates>110.21600069318595,-7.472270605972</coordinates></Point></Placemark>
+<Placemark id="4">
+<ExtendedData>
+  <Data name="nama"><value>pekalongan</value></Data></ExtendedData>
+  <Point><coordinates>109.66734062163067,-6.870902442415584</coordinates></Point></Placemark>
+<Placemark id="5">
+<ExtendedData>
+  <Data name="nama"><value>salatiga</value></Data></ExtendedData>
+  <Point><coordinates>110.50090661223265,-7.3243693894135475</coordinates></Point></Placemark></Document></kml>

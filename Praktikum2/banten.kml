@@ -1,0 +1,17 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark id="0">
+<ExtendedData>
+  <Data name="nama"><value>tanggerang</value></Data></ExtendedData>
+  <Point><coordinates>106.63870583948687,-6.1669499997420445</coordinates></Point></Placemark>
+<Placemark id="1">
+<ExtendedData>
+  <Data name="nama"><value>tanggerang selatan</value></Data></ExtendedData>
+  <Point><coordinates>106.70829599999979,-6.3211902551622785</coordinates></Point></Placemark>
+<Placemark id="2">
+<ExtendedData>
+  <Data name="nama"><value>serang</value></Data></ExtendedData>
+  <Point><coordinates>106.15430805580064,-6.10956033905596</coordinates></Point></Placemark>
+<Placemark id="3">
+<ExtendedData>
+  <Data name="nama"><value>cilegon</value></Data></ExtendedData>
+  <Point><coordinates>106.05066673721313,-6.013405737793576</coordinates></Point></Placemark></Document></kml>

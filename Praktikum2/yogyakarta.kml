@@ -1,0 +1,21 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark id="0">
+<ExtendedData>
+  <Data name="nama"><value>yogyakarta</value></Data></ExtendedData>
+  <Point><coordinates>110.36564721404005,-7.794365084218697</coordinates></Point></Placemark>
+<Placemark id="1">
+<ExtendedData>
+  <Data name="nama"><value>sleman</value></Data></ExtendedData>
+  <Point><coordinates>110.34141723119939,-7.680828634650453</coordinates></Point></Placemark>
+<Placemark id="2">
+<ExtendedData>
+  <Data name="nama"><value>bantul</value></Data></ExtendedData>
+  <Point><coordinates>110.32885157970333,-7.881165278804886</coordinates></Point></Placemark>
+<Placemark id="3">
+<ExtendedData>
+  <Data name="nama"><value>gunung kidul</value></Data></ExtendedData>
+  <Point><coordinates>110.60004642755581,-7.9542781315198</coordinates></Point></Placemark>
+<Placemark id="4">
+<ExtendedData>
+  <Data name="nama"><value>kulon progo</value></Data></ExtendedData>
+  <Point><coordinates>110.1568022130225,-7.848614345195259</coordinates></Point></Placemark></Document></kml>
